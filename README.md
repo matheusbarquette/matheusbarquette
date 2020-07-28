@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+Meu nome é Matheus Henrique Barquette , sou apaixonado por tecnologia em geral , estou sempre buscando adquirir novos conhecimentos e de compartilhar os meus próprios , a fim de poder fortalecer cada vez mais a nossa comunidade⚡
+Então acho que agora chega de papo e bora codar 😄!
 
 <!--
 **matheusbarquette/matheusbarquette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
